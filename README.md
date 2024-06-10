@@ -23,14 +23,14 @@
 <h2 align="left" font-weight="bold">Sobre miiii</h2>  
 <br><br>
 
-- :Me llamo Keydi Giselle Ceron De Angel, estudiante de programacion, tengo 17 años y me interesar crear juegos en un futuro.
+- Me llamo Keydi Giselle Ceron De Angel, estudiante de programacion, tengo 17 años y me interesar crear juegos en un futuro.
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeid&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 
 <p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://i.quotev.com/qagu43zuugtq.jpg" alt="love"></center>
 </p>
 <br>
 <h2 font-weight="bold">Lenguajes usados</h2>
