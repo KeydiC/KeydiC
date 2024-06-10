@@ -5,8 +5,6 @@
 
 </h1>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
-
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=KeydiC&count_private=true&show_icons=true&theme=tokyonight" />
 <br><br>
