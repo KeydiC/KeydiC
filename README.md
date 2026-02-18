@@ -11,10 +11,10 @@
 <img align="right" alt="GIF" src="https://c.tenor.com/gpOUboethA0AAAAC/my-hero-academia-boku-no-hero-academia.gif" width="100px" height="100px" />
 <br><br>
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">Sobre miiii</h2>  
+<h2 align="left" font-weight="bold">about me</h2>  
 <br><br>
 
-oli, amo TADC y a Jax
+							oli, amo TADC y a Jax
 <br>
 
  <br>
@@ -37,7 +37,7 @@ oli, amo TADC y a Jax
 		  
   </tr>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
+
   </tr>
 </table>
 <br/>
@@ -46,7 +46,7 @@ oli, amo TADC y a Jax
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zomiwnaodiii/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/heynaodi/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       </div>
 
