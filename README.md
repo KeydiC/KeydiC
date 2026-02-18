@@ -14,8 +14,7 @@
 <h2 align="left" font-weight="bold">Sobre miiii</h2>  
 <br><br>
 
-- Me llamo Keydi Giselle Ceron De Angel, estudiante de programacion, tengo 17 años y me interesar crear juegos en un futuro.
-- Tambien me gustan los videojuegos y el anime.
+oli, amo TADC y a Jax
 <br>
 
  <br>
